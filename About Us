@@ -1,0 +1,166 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>About us, Personal Care, Newfoundland, PA | Briarwood Manor</title>
+<meta name="description" content="Briarwood Manor, Newfoundland, PA, since 40 years, offering accommodations for 20 residents, dedicated personal care, best staff and more" />
+<meta name="keywords" content="about us, accommodations newfoundland, accomodations pennsylvania, briarwood manor, newfoundland, pennsylvania, personal care newfoundland, newfoundland personal care, pennsylvania personal care, personal care pennsylvania" />
+<link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico">
+<link rel="stylesheet" type="text/css" href="style.css" />
+<script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
+<script src="js/jquery.slides.min.js"></script>
+<script>
+    $(function() {
+      $('#slides').slidesjs({
+        width: 946,
+        height: 475,
+        play: {
+          active: true,
+          auto: true,
+          interval: 4000,
+          swap: true
+        }
+      });
+    });
+  </script>
+<script type="text/javascript"> 
+var _gaq = _gaq || []; 
+_gaq.push(['_setAccount', 'UA-44483737-1']); 
+_gaq.push(['_trackPageview']); 
+(function() { 
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; 
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; 
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); 
+})(); 
+</script>
+<script>
+	(function() {
+	var d=document,h=d.getElementsByTagName('head')[0],s=d.createElement('script'); 
+	s.type='text/javascript'; 
+	s.async=true; 
+	s.src='http://s.dpmsrv.com/dpm_c097638f92de80ba8d6c696b26e6e601a5f61eb7.min.js';  
+	h.appendChild(s); 
+	})();
+</script>
+</head>
+<body>
+<div id="main-wrapper">
+  <div id="wrapper">
+    <div id="header-wrapper">
+      <div id="container">
+        <div id="header">
+          <div id="logo"><a href="index.html"><img src="images/logo.jpg" alt="Briarwood Manor" title="Briarwood Manor" border="none"/></a></div>
+          <div class="nav">
+            <ul id="mainnav">
+           <li><a href="index.html" ><span>Home</span></a></li>
+              <li><a href="about-us.html" class="active"><span>About Us</span></a></li>
+              <li><a href="services.html"><span>Services</span></a></li>
+              <li><a href="testimonials.html"><span>Testimonials</span></a></li>
+              <li class="last"><a href="contactus.html"><span>Contact Us</span></a></li>
+            </ul>
+          </div>	
+          <div id="header-img">
+          	<div class="container">
+       <div id="slides">
+              <img src="images/slider-images/slider1.png" alt="Briarwood Manor"  title="Briarwood Manor">
+              <img src="images/slider-images/slider5.png" alt="Briarwood Manor"  title="Briarwood Manor">
+              <img src="images/slider-images/slider6.png" alt="Briarwood Manor"  title="Briarwood Manor">
+              <img src="images/slider-images/slider7.png" alt="Briarwood Manor"  title="Briarwood Manor">
+              <img src="images/slider-images/slider8.png" alt="Briarwood Manor"  title="Briarwood Manor">
+              <img src="images/slider-images/slider9.png" alt="Briarwood Manor"  title="Briarwood Manor">
+              <img src="images/slider-images/slider11.png" alt="Briarwood Manor"  title="Briarwood Manor">
+              <img src="images/slider-images/slider12.png" alt="Briarwood Manor"  title="Briarwood Manor">
+               <img src="images/slider-images/slider13.png" alt="Briarwood Manor"  title="Briarwood Manor">
+            </div>
+          </div>       
+          </div>
+          <div id="cta"><span>570-252-4224</span></div>
+        </div>
+        <div id="main-contant">
+          <div id="content-bootom">
+            <div id="contant-bg">
+              <div id="content">
+                <h1>About<span> Us</span></h1>
+                <p>A Home Away from Home</p>
+                <p>Backed by more than 40 years of related industry experience, the proprietors of Briarwood Manor are dedicated to becoming the area's premier name in personal care. We currently offer accommodations for 20 residents, if need be and can accommodate most residents with the convenience to age in place. Above all, we care about how our residents are treated and expect only the best from our staff.</p>
+               <p><strong>Staff Qualifications</strong></p>
+                <div class="oa1" style="width:100%; margin-bottom:10px; margin-top:-11px;">
+                            <ul>
+                            <li>Criminal background check</li>
+							<li>Drug screening</li>
+                            <li style="width:100%;">Department of Public Welfare certified aide</li>
+                            <li>Certified medication administrators</li>
+                            <li>Certified in topical treatments</li>
+                            <li>Certified Diabetes care givers</li>
+                            <li>Certified in CPR/First Aid</li>
+                            <li>Fire safety certified</li>
+                            <li>On-going continuing education</li>
+                            </ul>
+                            </div>
+                <p><strong class="txt-1">Who We Are</strong></p>
+                <p>Please check out our interview with the Moscow Villager at:<br>
+                <a href="http://www.moscowvillager.com/lifestyle/family/x433231742/A-home-away-from-home" target="_blank">http://www.moscowvillager.com/lifestyle/family/x433231742/A-home-away-from-home</a></p>
+              </div>
+             		<div id="sidebar">
+                   <div class="ourservices">
+                    		<h6>Our <span>Services</span></h6>
+                            <div class="oa1">
+                            <ul>
+                            <li>On Campus Beauty Salon</li>
+							<li>Sunday Morning Pastries</li>
+                                	<li>Ice Cream Socials</li>
+                                    <li>Movie Night</li>
+                                    <li>Friday Happy Hour</li>
+                                    <li>Bingo, Cards and Board Games</li>
+                                    <li>Coffee and Tea Socials</li>
+                                    <li>Daily Laundry Service</li>
+                                    <li>Walking & Daily Exercising</li>
+                                    <li>Housekeeping Services</li>
+                                    <li>Outdoor Relaxation & Activities</li>
+                                    <li>Customized Meal Planning</li>
+                                    <li>Close Proximity to Religious Services</li>
+                                    <li>Three Meals Per Day Plus Snacks</li>
+                                    <li>In House Religious Services</li>
+                                    <li>Transportation Coordination</li>
+                                    <li>Medication Administration</li>
+                                    <li>Non Smoking Campus</li>
+                                </ul>
+                            </div>
+           </div>
+             </div>                
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div id="footer-wrapper">
+    <div id="fotter">
+      <div id="fotter-nav">
+        <ul>
+          <li class="first"><a href="index.html" >Home</a></li>
+          <li><a href="about-us.html" class="active">About Us</a></li>
+          <li><a href="services.html">Services</a></li>
+          <li><a href="testimonials.html">Testimonials</a></li>
+          <li class="last"><a href="contactus.html">Contact Us</a></li>
+        </ul>
+      </div>
+      <div id="copyright">© 
+        <script type="text/javascript">
+var d=new Date();
+document.write(d.getFullYear());
+</script> 
+  Briarwood Manor. All Rights Reserved.</div>
+    </div>
+  </div>
+</div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+</body>
+</html>
